@@ -1,0 +1,25 @@
+.container {
+    background-color: rgb(160, 20, 20);
+    padding: 15px;
+}
+
+.sidebar {
+    background-color: bisque;
+    float: left;
+    width: 30%;
+    height: 400px;
+}
+
+.content {
+    background-color: rgb(173, 132, 78);
+    width: 70%;
+    float: right;
+}
+
+h1 {
+    margin: 10px;
+}
+
+h2 {
+    margin: 10px;
+}
