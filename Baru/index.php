@@ -33,8 +33,10 @@
                 </li>
                 <li class="nav-item">
                     <a class="nav-link" href="media/form.html">Register</a>
+                    </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="Bilangan fibonaci/Cussngitung.php">Yuk Ngitung</a>
                 </li>
-                
             </ul>
         </div>
     </nav>
